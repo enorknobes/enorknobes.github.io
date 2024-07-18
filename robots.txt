@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enorknobes.github.io/sitemap
+Sitemap: https://enorknobes.github.io/app/sitemap
+Sitemap: https://enorknobes.github.io/assets/sitemap
+Sitemap: https://enorknobes.github.io/css/sitemap
+Sitemap: https://enorknobes.github.io/includes/sitemap
+Sitemap: https://enorknobes.github.io/item/sitemap
+Sitemap: https://enorknobes.github.io/src/sitemap
